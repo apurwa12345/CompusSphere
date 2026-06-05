@@ -224,3 +224,8 @@ python -m py_compile backend\app\routes\auth.py backend\config.py
 - The frontend URL in `.env` should match the frontend address used by students.
 - For local mobile testing, OTP is preferred over reset links because localhost links do not open correctly on other devices.
 
+## If any query Contact us 
+Apurwa Choudante - apurwachoudante05@gmail.com
+Shivani Bande - shivanibande10@gmail.com
+Aman Shaikh - ashaikh49096@gmail.com
+Akanksha Borgaonkar - akankshapsb07@gmail.com
