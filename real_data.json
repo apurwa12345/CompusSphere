@@ -1,0 +1,35 @@
+{
+  "student": {
+    "batch_year": "2025-26",
+    "created_at": "07:05.2",
+    "current_semester": "1",
+    "department_id": "1032250383",
+    "email": "s25_abdul_rahman@mgmcen.ac.in",
+    "enrollment_no": "2502127111246005",
+    "name": "ABDUL RAHMAN ABDUL BASIT",
+    "gender": "Male",
+    "roll_no": "101",
+    "mobile": "9359411988",
+    "phone": "9359411988",
+    "dob": "",
+    "group": "A",
+    "department": "INFORMATION TECHNOLOGY (B.Tech)",
+    "prn": "2502127111246005",
+    "enrollment_number": "2502127111246005",
+    "year": "2025-26"
+  },
+  "subject": {
+    "ca": "",
+    "code": "24AF1000BS101",
+    "credits": "3",
+    "ese": "",
+    "l": "",
+    "mse": "",
+    "name": "Engineering Mathematics \u2013 I",
+    "p": "",
+    "semester": "",
+    "t": "",
+    "total": "",
+    "type": "BSC"
+  }
+}

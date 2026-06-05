@@ -1,0 +1,3329 @@
+--- STUDENT PAYMENT STATUS CHECK ---
+Total students in students collection: 664
+Total student users in users collection: 664
+Total fee submissions: 9
+
+--- Listing Students with Fee Info ---
+Name: ABDUL RAHMAN ABDUL BASIT | Email: s25_abdul_rahman@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ADE ASHVINI SANTOSH | Email: s25_ade_ashvini@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ADEEL KHAN HASIB KHAN HASIB KHAN | Email: s25_adeel_khan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ADKINE VYANKATESH KAILAS | Email: s25_adkine_vyankatesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : [{'status': 'Pending', 'amount': 60000}, {'status': 'Pending', 'amount': 100000}]
+--------------------------------------------------
+Name: AGRAWAL RIDDHI MANOJKUMAR | Email: s25_agrawal_riddhi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : [{'status': 'Pending', 'amount': 90000}]
+--------------------------------------------------
+Name: AMILKANTHWAR RANVEER RAJESH | Email: s25_ranveer_rajesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BAGAL PRATIKSHA PRAMESHWAR | Email: s25_bagal_pratikasha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BASRE MAHESH OMPRAKASH | Email: s25_basre_mahesh@mgmcen.ac.in
+  Student Coll: fee_status=Partially Paid, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : [{'status': 'Partially Paid', 'amount': 60000}, {'status': 'Pending', 'amount': 60000}, {'status': 'Pending', 'amount': 60000}]
+  *** ANOMALIES DETECTED: fee_status is Partially Paid but fees_paid_amount is 0/None ***
+--------------------------------------------------
+Name: BASIGAMALU VISHNUKANT RAJENDRA | Email: s25_basigamalu_vishnukant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHISE PRANAV BHAGWAT | Email: s25_bhise_pranav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHUTNAR SANCHITA SANDIP | Email: s25_bhutnar_sanchita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BIDWAI PARTH JITENDRA | Email: s25_bidwai_parth@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BIJAMWAR OMKAR PRADIP | Email: s25_bijamwar_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BILOLIKAR ARPITA ABHAY | Email: s25_bilolikar_arpita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BUDHEWAR TIRUPATI  SAINATH | Email: s25_budhewar_tirupati@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHANDRE PUJA UMAKANT | Email: s25_chandre_puja@mgmcen.ac.in
+  Student Coll: fee_status=Partially Paid, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : [{'status': 'Partially Paid', 'amount': 60000}]
+  *** ANOMALIES DETECTED: fee_status is Partially Paid but fees_paid_amount is 0/None ***
+--------------------------------------------------
+Name: CHAVAN KAJAL  NAGORAO | Email: s25_chavan_kajal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAVAN VAIBHAV MAROTI | Email: s25_chavan_vaibhav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAVHAN SWATI SUNIL | Email: s25_chavhan_swati@mgmcen.ac.in
+  Student Coll: fee_status=Partially Paid, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : [{'status': 'Partially Paid', 'amount': 90000}]
+  *** ANOMALIES DETECTED: fee_status is Partially Paid but fees_paid_amount is 0/None ***
+--------------------------------------------------
+Name: DAMKONDWAR GAURI BALAJI | Email: s25_damkondwar_gauri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DAMKONDWAR MANSI SHRINIVAS | Email: s25_damkondwar_mansi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESAI POONAM NARAYAN | Email: s25_desai_poonam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH RASIKA VIRENDRA | Email: s25_deshmukh_rasika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH SHARVIL DILIPRAO | Email: s25_deshmukh_sharvil@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH SONIYA GAJANAN | Email: s25_deshmukh_soniya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHUMAL SAKSHI DNYANESHWAR | Email: s25_dhumal_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GADEKAR  AVINASH  GYANBA | Email: s25_gadekar_avinash@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GHODEKAR MAHESH JAYANT | Email: s25_ghodekar_mahesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GOPNAR RUTUJA VITTHALRAO | Email: s25_gopnar_rutuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GUNDLE PRIYANSHU SHANKAR | Email: s25_gundle_priyanshu@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HANWATE ARTI BHAGWAN | Email: s25_hanwate_arti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HULKANE SHIVAM  TUKARAM | Email: s25_hulkane_shivam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: IBITWAR VISHNU GOVINDRAO | Email: s25_ibitwar_vishnu@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: INDRALE SRUSHTI BALAJI | Email: s25_indrale_srushti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: INGLE SAMIKSHA SANTOSH | Email: s25_ingle_samiksha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV ABHAY RAJESH | Email: s25_jadhav_abhay@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV AJIT BALIRAM | Email: s25_jadhav_ajit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV  SAKSHI  SHANKAR | Email: s25_jadhav_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV SAVLI VISHWASRAO | Email: s25_jadhav_savli@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV SHUBHAM SUBHASHRAO | Email: s25_jadhav_shubham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM DIPALI VISHNUKANT | Email: s25_kadam_dipali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM KETAKI ANIL | Email: s25_kadam_ketaki@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM ROHAN KESHAVRAO | Email: s25_kadam_rohan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM SHIVAM RAMRAO | Email: s25_kadam_shivam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAMB CHARANPREETSINGH JASBIRSINGH | Email: s25_kadamb_charanpreetsingh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADEKAR GANGADHAR VIJAY | Email: s25_kadekar_gangadhar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAKDE OM PRADEEP | Email: s25_kakde_om@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KALE TANVI SANJAY | Email: s25_kale_tanvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KALEKAR KOMAL KASHINATH | Email: s25_kalekar_komal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KALYANKAR PRANJALI UMAKANT | Email: s25_kalyankar_pranjali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAMBLE ABHINAV AMBADAS | Email: s25_kamble_abhinav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAMBLE PRABUDDH TULSHIRAM | Email: s25_kamble_prabuddh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAMBLE SANCHITA MADHAV | Email: s25_kamble_sanchita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAMBLE SHAILAJA KISHANRAO | Email: s25_kamble_shailaja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KANDE VAISHNAVI PARMESHWAR | Email: s25_kande_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KANZODE PRATHAMESH BALU | Email: s25_kanzode_prathamesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KATKADE PRANJALI SANJAY | Email: s25_katkade_pranjali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KENDRE ABHIJEET VISHNUKANT | Email: s25_kendre_abhijeet@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KENDRE KALYANI BALAJI | Email: s25_kendre_kalyani@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KUNTE PRATHAMESH RAMESH | Email: s25_kunte_prathamesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KURE KARAN VITTHAL | Email: s25_kure_karan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KUTHE ADITI JAGDISH | Email: s25_kuthe_aditi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LATARE ATRAY DADARAO | Email: s25_latare_atray@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MADNOORKAR AKSHAY SOMESH | Email: s25_madnoorkar_akshay@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MAGAR SANIKA SANJAY | Email: s25_magar_sanika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MATALKAR GAURI ANIL | Email: s25_matalkar_gauri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KHAN MOHAMMAD SHADMAN NAIM | Email: s25_mohammad_shadman@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED MUZAKIR UMAR MOMOHAMMED MOHIT | Email: s25_mohammed_muzakir@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED UMER BAGBAN ABDUL MOHSIN | Email: s25_mohammed_umer@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMAD UZAIR KAUSARNIYAZI | Email: s25_mohammed_uzair@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MUKKALWAR GAYATRI GANGADHAR | Email: s25_mukkawar_gayatri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MULGIR ANIKET SHRIKANT | Email: s25_mulgir_aniket@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NAGESHWAR SHRADDHA BABURAO | Email: s25_nageshwar_shraddha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NANDEWAR SHRADDHA SANTOSH | Email: s25_nandewar_shraddha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NAYAK VEDANT SUNILRAO | Email: s25_nayak_vedant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NEWARE ASHWINI ASHOK | Email: s25_neware_ashwini@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PADMAWAR SANDHIKA SADASHIV | Email: s25_padmawar_sandhika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATANGE MANASVI JATHANRAO | Email: s25_patange_manasvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATHAN HUZEFA TEHRIM MUKHRUB | Email: s25_pathan_huzefa@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATHAN JAMAD KHAN MIYAKHAN | Email: s25_pathan_jamad@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATIL MANSI MADHAV | Email: s25_patil_mansi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATTEWAR ARYA  VIVEK | Email: s25_pattewar_arya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWAR AMOL  SANDEEP | Email: s25_pawar_amol@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWAR PARSHURAM SUKHDEV | Email: s25_pawar_parshuram@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWAR SHREYA PRADEEP | Email: s25_pawar_shreya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWDE  ATHRAVA  ANNA | Email: s25_pawde_athrava@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: POLAWAR SOHAM SANJAY | Email: s25_polawar_soham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RATHOD  MINAKSHI  MOHAN | Email: s25_rathod_minakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SAKNURE ASMITA ACHUT | Email: s25_saknure_asmita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SARODE TRISHA SONAJI | Email: s25_sarode_trisha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SARPATE ASHISH RAOSAHEB | Email: s25_sarpate_ashish@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SAWANT MANOJKUMAR GANGADHAR | Email: s25_sawant_manojkumar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAHEBAZ KHAN PATHAN SHADULLAH KHAN PATHAN | Email: s25_khan_shahebaz@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH ASHAR SHAIKH MUNAF | Email: s25_shaikh_ashar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH AYAAN MD SIRAJ | Email: s25_shaikh_ayaan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH MD AWES ABDULGAFFAR | Email: s25_shaikh_mdawes@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH MOHSIN SHAIKH JILANI | Email: s25_shaikh_mohsin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH REHAN SHAIKH IQBAL | Email: s25_shaikh_rehan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH SAMEER SHAIKH AJIS | Email: s25_shaikh_sameer@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH SARAFRAZ SHAIKH SALEEM | Email: s25_shaikh_sarfaraz@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHETE SAMIKSHA NAVNATH | Email: s25_shete_samiksha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE ONKAR BABARAO | Email: s25_shinde_onkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE PRATHMESH PRABHAKAR | Email: s25_shinde_prathmesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHIRGIRE VAIJNATH NAGNATH | Email: s25_shirgire_vaijnath@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SOMWANSHI PRAJAKTA DAYANAND | Email: s25_somwanshi_prajakta@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SONALE SUMIT  RAJESH | Email: s25_sonale_sumit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SWAMI SUREKHA GUNDYYA | Email: s25_swami_surekha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SWAMI TRUPTI BASWARAJ | Email: s25_swami_trupti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TANDALE CHETANA  TUKARAM | Email: s25_tandale_chetana@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TATIKUNDALWAR SANJANA BHAGWAN | Email: s25_tatikundalwar_sanjana@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TAUR SNEHA KALYANSING | Email: s25_taur_sneha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TEHRA ANSHIKA DINESH | Email: s25_tehra_anshika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: THANGELAPALLI VAISHNAVI RAVIKIRAN | Email: s25_thangelapalli_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TIDKE VAISHNAVI DATTA | Email: s25_tidke_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TOTADE SAIRAM NARESH | Email: s25_totade_sairam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TUPTEWAR PRASAD NARESH | Email: s25_tuptewar_prasad@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WAGHMARE PRIYANKA DEVANAND | Email: s25_waghmare_priyanka@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WAGHMARE SHREYASH SHRIDHAR | Email: s25_waghmare_shreyash@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WANKHEDE  RITESH  RAMESHWAR | Email: s25_wankhede_ritesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: YANGANDULWAR SRUSHTI MAROTI | Email: s25_yangandulwar_srushti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SIDDIQUI ABDUL ALA ANWAR PARVEZ | Email: s24_siddiqui_abdul@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: Student Name | Email: student off. email id
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ADKINE SANSKRUTI BALASAHEB | Email: s25_adkine_sanskruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AGRAWAL POONAM DEEPAK | Email: s25_agrawal_poonam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AWATHE GAUTAM SIDDHARTH | Email: s25_awathe_gautam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BAGADE VAISHNAVI MAROTI | Email: s25_bagade_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BAWALE SAKSHAM SUNIL | Email: s25_bawale_saksham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BERJE ROHIT SUNIL | Email: s25_berje_rohit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHAGAT SUJAL NARAYAN | Email: s25_bhagat_sujal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHEVALE OMKAR DNYANESHWAR | Email: s25_chevale_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHIDRAWAR VAIBHAVI CHANDRAKANT | Email: s25_chidrawar_vaibhavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHOUDHARY NISHIKA SANJIV | Email: s25_choudhary_nishika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHOULWAR ONKAR SUNIL | Email: s25_choulwar_onkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DAMODHAR SHUBHAM PRABHAKAR | Email: s25_damodhar_shubham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DEDE RUPAM PREMANAND | Email: s25_dede_rupam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH SHRAVANI BAPUSAHEB | Email: s25_shravani_deshmukh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHOKANE ANJALI SANTOSH | Email: s25_dhokane_anjali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GARDI KUNAL SUBHASH | Email: s25_gardi_kunal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GHOTI ROHIT SONUSING | Email: s25_ghoti_rohit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GUBRE RUTUJA RAMDAS | Email: s25_gubre_rutuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: INGOLE ASMITA SANJAY | Email: s25_ingole_asmita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV SHRIKRUSHNA TIRUPATI | Email: s25_jadhav_shrikrushna@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JOSHI PRATHMESH VILAS | Email: s25_joshi_prathmesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM PRUTHVIRAJ DEVIDAS | Email: s25_kadam_pruthviraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KALASKAR PIYUSH SUSHIL | Email: s25_kalaskar_piyush@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAUTKAR ATHARVA NARSING | Email: s25_kautkar_atharva@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KSHIRSAGAR SHLOK SANDIP | Email: s25_kshirsagar_shlok@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LODE GAYATRI SANDIP | Email: s25_lode_gayatri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LOLGE AYUSH ANIL | Email: s25_lolge_ayush@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MALEGAVE GOVIND PANJABRAO | Email: s25_malegave_govind@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MANE OMKAR MAROTI | Email: s25_mane_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MANE SADASHIV ASHOK | Email: s25_mane_sadashiv@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MANE SAKSHI MANIK | Email: s25_mane_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MIRZA USAID BAIG MIRZA NAYEEM BAIG | Email: s25_mirza_usaid@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED ABDULLAH MUNEER AHMED | Email: s25_mohammed_abdullah@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED ETESAAM SYED MAQBOOL SYEDMAQBOOL | Email: s25_mohammed_etesaam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MUNDE SHRUTI MANIK | Email: s25_munde_shruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MUNGAL NAMRATA UMRAO | Email: s25_mungal_namrata@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PALSE MOHIT KASHINATH | Email: s25_palse_mohit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PARDESHI SHWETA SUNIL | Email: s25_pardeshi_shweta@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATHAN GUFRAN KHAN AHEMAD KHAN | Email: s25_pathan_gufran@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATHAN SAMIR KHAN JANI KHAN | Email: s25_pathan_samir@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWAR SANKET BHIMRAO | Email: s25_pawar_sanket@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWAR VEDANT LAXMAN | Email: s25_pawar_vedant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: POTDAR VEDANTI BHASKAR | Email: s25_potdar_vedanti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PUNJAPWAR SWAPNIL SHRINIWAS | Email: s25_punjapwar_swapnil@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAJMANE SAKSHI SURESH | Email: s25_rajmane_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RANVEER SHUBHAM BALAJI | Email: s25_ranveer_shubham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RANVIRKAR SHRINIVAS UTTAM | Email: s25_ranvirkar_shrinivas@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAUT OM GANESH | Email: s25_raut_om@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SABANE RAHUL SHAMRAO | Email: s25_sabane_rahul@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SAYYED REHAN SAYYED AFZAL | Email: s25_sayyed_rehan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH ANAS SHAIKH JAFAR | Email: s25_shaikh_anasjafar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH AWEZ SHAIKH MUNIR | Email: s25_shaikh_awez@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH SAKIB SHAIKH GAFAR | Email: s25_shaikh_sakib@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHETKAR RUTUJA SHIVANAND | Email: s25_shetkar_rutuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE ANANDI TANAJI | Email: s25_shinde_anandi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE DNYANESHWAR SHANKAR | Email: s25_shinde_dnyaneshwar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE SAKSHI GOVINDRAO | Email: s25_shinde_sakshi_govindrao@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE SAKSHI VYANKAT | Email: s25_shinde_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HORANDE SNEHA DATTATRAY | Email: s25_horande_sneha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SONALE SHREYA DUSHYANT | Email: s25_sonale_shreya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SONTAKKE KHUSHI GANGADHAR | Email: s25_sontakke_khushi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SYED ARIF SYED SOHRAB | Email: s25_syed_arif@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TEREKAR ANUSHAKA GANESH | Email: s25_terekar_anushka@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TUPE ADITYA ABAJI | Email: s25_tupe_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: UMAR FAROOK ALI KHAN YAKUB ALI KHAN | Email: s25_umar_farook@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: UNWANE SANSKRUTI SANTOSH | Email: s25_unwane_sanskruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WANKHADE PALLAVI VIJAY | Email: s25_wankhade_pallavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WARKHINDE GOVIND SHANKARRAO | Email: s25_warkhinde_govind@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ZORE HARSH ANKUSH | Email: s25_zore_harsh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ATNALWAR GOURAVKUMAR KASHIRAM | Email: s25_atnalwar_gouravkumar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BARASE PARMESHWAR SHIVRAJ | Email: s25_barase_parmeshwar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BARKULE KOMAL GOVINDRAO | Email: s25_barkule_komal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHAGAT SIDHANT SANTOSH | Email: s25_bhagat_sidhant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHOSLE SAKSHI SHIVAJI | Email: s25_bhosle_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHOSLE SHIVRAJ TUKARAM | Email: s25_bhosle_shivraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHATE SAMRUDDHI NARAYAN | Email: s25_chate_samruddhi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAVAN JAYSHRI RAVAN | Email: s25_chavan_jayshri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAVAN PRADIP BHARAT | Email: s25_chavan_pradip@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DAGADGAVE SHIVKANYA MADHAV | Email: s25_dagadgave_shivkanya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DAHIWAL RITESH LAXMIKANT | Email: s25_dahiwal_ritesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH SANSKAR GAJANAN | Email: s25_deshmukh_sanskar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHATRAK SHRIKANT RAJESH | Email: s25_dhatrak_shrikant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DONGAVE SHIVANI  BALAJI | Email: s25_dongave_shivani@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: FATEMA ZAHRA ABDUL MALIK | Email: s25_fatema_zahra@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAIKWAD VAIBHAV GAJANAN | Email: s25_gaikwad_vaibhav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GANGAWANE PRANIL PRAVIN | Email: s25_gangawane_pranil@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GANJEWAR ISHAN RAVINDRA | Email: s25_ganjewar_ishan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GOHIL TEJAS RAJESH | Email: s25_gohil_tejas@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GORGE RITESH PARMESHWAR | Email: s25_gorge_ritesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GOTE GAURAV VISHWANATH | Email: s25_gote_gaurav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HAMBARDE ADITYA DEVRAO | Email: s25_hambarde_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HANGARGE SHARAYU DNYANESHWAR | Email: s25_hangarge_sharayu@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HARALE ANKITA VITTHALRAO | Email: s25_harale_ankita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: INGLE  TEJAS  PADMAKAR | Email: s25_ingle_tejas@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV RANVEER ANAND | Email: s25_jadhav_ranveer@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV TEJAS TUSHAR | Email: s25_jadhav_tejas@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM BHAKTI UMASHANKAR | Email: s25_kadam_bhakti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM  OMKAR  DIGAMBAR | Email: s25_kadam_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM VIGHNESH HARISHCHANDRA | Email: s25_kadam_vighnesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KALYANKAR  SATYAM  TUKARAM | Email: s25_kalyankar_satyam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAMBLE NITIN VIJAY | Email: s25_kamble_nitin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAPATE DATTA BHAGWAT | Email: s25_kapate_datta@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KATKHEDE SAMRUDHI RAVINDRA | Email: s25_katkhede_samrudhi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAWADE SAWAN RAMESH | Email: s25_sawan_ramesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KIRWADE VAISHNAVI DHANAJI | Email: s25_kirwade_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KOKATE PRANALI VIJAY | Email: s25_kokate_pranali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KULTHE SHRADDHA HARISH | Email: s25_kulthe_shraddha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KUNDEWAR VIDYA JAYPRAKASH | Email: s25_kundewar_vidya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LAHOTI  KRIPA  PAVAN | Email: s25_lahoti_kripa@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LONDHE ROHIT DATTARAO | Email: s25_londhe_rohit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MAHAJAN  SWAPNIL  LAXMAN | Email: s25_mahajan_swapnil@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NAGARGOJE SHASHIKANT VITTHAL | Email: s25_nagargoje_shashikant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NARUKE RUTUJA MAROTI | Email: s25_naruke_rutuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PADALWAD AMOL PARSHURAM | Email: s25_padalwad_amol@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAHADE JAYNESH RITESH | Email: s25_pahade_jaynesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PALWADE RUTUJA TUKARAM | Email: s25_palwade_rutuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PANCHAL SANSKRUTI SANTOSH | Email: s25_panchal_sanskruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PANCHAL SURMAYEE NAMDEVRAO | Email: s25_panchal_surmayee@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PANPATTE SHASHANK SUDHAKAR | Email: s25_panpatte_shashank@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATNOORWALE KULPRAKASHSINGH KIRPALSINGH | Email: s25_patnoorwale_kulprakashsingh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWDE SOHAM PHULAJI | Email: s25_pawde_soham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PRAVIN KUMAR | Email: s25_kumar_pravin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RANVEER TANMAY BALAJI | Email: s25_ranveer_tanmay@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAUT SHRUTI PUNDLIK | Email: s25_raut_shruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH ZISHAN SHAIKH KHALEEL | Email: s25_shaikh_zishan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE AMAR VITTHALRAO | Email: s25_shinde_amar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE ARJUNRAJ SHIVRAJ | Email: s25_shinde_arjunraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHIRADHONKAR GOURI MANOJ | Email: s25_shiradhonkar_gouri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SIRMANWAR ARNAV DILIP | Email: s25_sirmanwar_arnav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SURNAR PAVAN YESHVANT | Email: s25_surnar_pavan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SURYAWAD ATHARV RAOSAHEB | Email: s25_suryawad_atharv@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TABELEWALE KULVEERSINGH HARBHAJANSINGH | Email: s25_tabelewale_kulveersingh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TANGADE SAKSHI KAILAS | Email: s25_tangade_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TAYWADE  VISHAL  ASHOK | Email: s25_taywade_vishal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: VYAVHARE ASAWARI BHIMASHANKAR | Email: s25_vyavhare_asawari@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WALKE SHIVPRASAD PARMESHWAR | Email: s25_walke_shivprasad@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: YENNAWAR RUTURAJ MAROTI | Email: s25_yennawar_ruturaj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ABDULRUBZAINDURVESH ABDUL RAHMAN DURVESH | Email: s24_abdulrubzaindurvesh_abdul@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM ADITYA GOPAL | Email: s24_kadam_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KOREWAD SHUBHAM BHUMA | Email: s24_korewad_shubham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHENDGE ANAND RAMRAO | Email: s24_shendge_anand@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: IBRAHIM KHAN MAHEMOOD KHAN | Email: s24_khan_ibrahim@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BARVE  SHIVAM  RUSHIKESH | Email: s25_barve_shivam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BASATWAR ADITI GAJANAN | Email: s25_basatwar_aditi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BAYAS VIVEK SURESHSINGH | Email: s25_bayas_vivek@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHALE PARAS BALAJI | Email: s25_bhale_paras@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BRAMHANE GAYATRI MADHUKAR | Email: s25_bramhane_gayatri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHOUKALE ANIKET DNYANESHWAR | Email: s25_choukale_aniket@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH SARTHAK SUNILRAO | Email: s25_deshmukh_sarthak@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH VEDANT DATTARAO | Email: s25_deshmukh_vedant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHAGE SAGAR SAHEBRAO | Email: s25_dhage_sagar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHAWSE RITESH  VILAS | Email: s25_dhawse_ritesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHOTE MAYUR VINOD | Email: s25_dhote_mayur@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAIKWAD VENKATESH MADHAV | Email: s25_gaikwad_venkatesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAJBHARE ARPITA ROHIDAS | Email: s25_gajbhare_arpita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAJBHARE RITESH PRAVIN | Email: s25_gajbhare_ritesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GORATHKAR SHASHANK SUBHASH | Email: s25_gorathkar_shashank@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GORTHEKAR DNYANESHWAR DATTATRAY | Email: s25_gorthekar_dnyaneshwar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: IBITDAR JANARDHAN SHIVAJI | Email: s25_ibitdar_janardhan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JONDHALE PRATHAM PREMKIRAN | Email: s25_jondhale_pratham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KACHAVE AYUSH VIJAYSINGH | Email: s25_kachave_ayush@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM SUMIT MAROTI | Email: s25_kadam_sumit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAKADE PRATHAMESH DIGAMBAR | Email: s25_kakade_prathamesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAMBLE ABHISHEK DADARAO | Email: s25_kamble_abhishek@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KARLEKAR DHANSHRI RAJESH | Email: s25_karlekar_dhanshri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KARVE NEHA PRABHU | Email: s25_karve_neha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KHONDE VAIBHAV VITTHALRAO | Email: s25_khonde_vaibhav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KOLHE OMKAR NAMDEV | Email: s25_kolhe_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MAGARE VAIBHAV ASHOK | Email: s25_magare_vaibhav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MAHALINGE JAYWARDHAN AJIT | Email: s25_mahalinge_jaywardhan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MANKARI GOVIND RAJESH | Email: s25_mankari_govind@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MANWAR  SIDDHANT  KAILAS | Email: s25_manwar_siddhant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MEKEWAD UMEJYA DNYANOBA | Email: s25_mekewad_umejya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED AMAAN MOHAMMEDASIF | Email: s25_mohammed_amaan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED YASSER MOHAMMED ZAFAR | Email: s25_mohammed_yasser@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MORGULWAR DEEPIKA GAJANAN | Email: s25_morgulwar_deepika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NAMEWAR LAXMAN VYANKATI | Email: s25_namewar_laxman@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NAVGIRE PRATIK ASHOK | Email: s25_navgire_pratik@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NIRMALE YASH GOVINDRAO | Email: s25_nirmale_yash@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWAR ARATI DILIP | Email: s25_pawar_arati@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PURNEKAR SHRAYA RAMDAS | Email: s25_purnekar_shraya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAIKWADE SOMNATH  DIGAMBER | Email: s25_raikwade_somnath@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAKHADE SAI GAURAV | Email: s25_rakhade_sai@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RATHOD PRAVIN SANJAY | Email: s25_rathod_pravin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAUT YASHODIP PRAKASH | Email: s25_raut_yashodip@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SANGALE SAILEE ANIL | Email: s25_sangale_sailee@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH ABDUL QADEER SHAIKH MAJEED | Email: s25_shaikh_abdulqadeer@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH KAIF SK KARIM | Email: s25_shaikh_kaif@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH SUFIYAN MADARSAB | Email: s25_shaikh_sufiyan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE AJIT GAJANAN | Email: s25_shinde_ajit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE NEHA RAMRAO | Email: s25_shinde_neha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE SHIVANI DEVRAO | Email: s25_shinde_shivani@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE SHUBHAM GANPAT | Email: s25_shinde_shubham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHIRULE PRUTHVIRAJ DHANRAJ | Email: s25_shirule_pruthviraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SULGEKAR SHAILESH NAGRAJ | Email: s25_sulgekar_shailesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SYED ATIF SUFIYAN SYED SIKANDER PARAVEZ | Email: s25_syed_atif@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WADJE OMKAR MADHUKAR | Email: s25_wadje_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WAGHMODE KARAN LAXMAN | Email: s25_waghmode_karan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WANKHEDE   SUMIT  SANTOSH | Email: s25_wankhede_sumit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: YEREKAR PRANAV SANTOSH | Email: s25_yerekar_pranav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GIRI SANKET BHALCHANDRA | Email: s24_giri_sanket@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AADHAV KRISHANA SONAJI | Email: s25_aadhav_krishana@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AASIM MUSTAFA MOHMMED YAQUB | Email: s25_aasim_mustafa@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ABDUL ALEEM ABDUL KHADAR | Email: s25_abdul_aleem@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AHER ARJUN DHANANJAY | Email: s25_aher_arjun@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ALI KABIR SAIYAD | Email: s25_alikabir_saiyad@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ALMAS KHANAM MD. KHALEEQUE AHMAD KHAN | Email: s25_almas_khanam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AMLAPURE RUDRABHISHEK NAGNATHRAO | Email: s25_amlapure_rudrabhishek@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ANKUSHKAR OM ANIL | Email: s25_ankushkar_om@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ANSARI MOHAMMAD UMAR AFFAN ABDUL HAKIM | Email: s25_ansari_mdumar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ANURA FAZIN SHAIKHMOHMEDMOHIUDDIN | Email: s25_anura_fazin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ASHTURKAR DIVYA DEEPAK | Email: s25_ashturkar_divya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AULWAD DEVENDRA DATTATRAY | Email: s25_aulwad_devendra@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BADWANE SHREYA SANJAY | Email: s25_badwane_shreya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BAGAL PURVA PANJABRAO | Email: s25_bagal_purva@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BAGDE VAISHNAVI SHIVANAND | Email: s25_bagde_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BAHETI SAMIKSHA DINESH | Email: s25_baheti_samiksha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BAN SAMRUDDHI SHIVRAJ | Email: s25_ban_samruddhi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BANDEWAR SNEHA YADAV | Email: s25_bandewar_sneha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BANSODE YASH JAGDISH | Email: s25_bansode_yash@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHARSAWADE NINAD SURYAKANT | Email: s25_bharsawade_ninad@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHATTE NEHA DNYANESHWAR | Email: s25_bhatte_neha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHURA ABDUL SATTAR MD IKRAM | Email: s25_bhura_abdul@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BODHANKAR ARJUN SACHIN | Email: s25_bodhankar_arjun@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHANDNE SHRADDHA KALBA | Email: nan
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAPPEWAR KRISHNA ANANDA | Email: s25_chappewar_krishna@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHATLOD VEDANT SIDRAM | Email: s25_chatlod_vedant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAUKALE KRUSHNA MADHAV | Email: s25_chaukale_krushna@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAVAN PUNAM RANJITRAO | Email: s25_chavan_punam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAWARE VISHVABHUSHAN BHARADWAJ | Email: s25_chaware_vishvabhushan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHINCHGAVHANKAR MAYUR ARUN | Email: s25_chinchgavhankar_mayur@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHINTAWAR ROHIT  VAIBHAV | Email: s25_chintawar_rohit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHITKESHIWAR SHWETA  SANTOSH | Email: s25_chitkeshiwar_shweta@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : [{'status': 'Pending', 'amount': 10000}]
+--------------------------------------------------
+Name: CHITMALWAR ISHEETAA SANDEEP | Email: s25_chitmalwar_isheetaa@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DAKULGE SHIVSHANKAR SHESHERAO | Email: s25_dakulge_shivshankar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DALVI YASH RAVINDRA | Email: s25_dalvi_yash@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMANE PRASAD GURURAJ | Email: s25_deshmane_prasad@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH RUTUJA SHIVRAJ | Email: s25_deshmukh_rutuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH SAMRUDDHI RAJESHWAR | Email: s25_deshmukh_samruddhi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH SHREYA SANJAY | Email: s25_deshmukh_shreya_sanjay@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHPANDE MRUNAL SHIRISH | Email: s25_deshpande_mrunal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHPANDE NAMRATA UDAY | Email: s25_deshpande_namrata@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHPANDE VAISHNAVI ABHAY | Email: s25_deshpande_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHAGE SHIVSHANKAR GANESH | Email: s25_dhage_shivshankar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHARIWAL  RANJEETKOUR  GURUMEETSINGH | Email: s25_dhariwal_ranjeetkour@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHARMADHIKARI MAYURESH KRISHNA | Email: s25_dharmadhikari_mayuresh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHULGANDE SHREYA PARASRAM | Email: s25_dhulgande_shreya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DIGRASKAR SANCHI VASANT | Email: s25_digraskar_sanchi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DUBEWAD OMKAR GOVIND | Email: s25_dubewad_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: FADANVIS ATHARV BHAURAO | Email: s25_fadanvis_atharv@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GADHE PRAVIN GOPAL | Email: s25_gadhe_pravin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAIKWAD OMKAR BALAJI | Email: s25_gaikwad_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GANGALE DIVYA DAGADU | Email: s25_gangale_divya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GANGULWAR GOURI RAVI | Email: s25_gangulwar_gouri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAVATE  ANUJ  AMOL | Email: s25_gavate_anuj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAWANDE RAM KAILASH | Email: s25_gawande_ram@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAYKWAD ABHISHEK DNYANESHWAR | Email: s25_gaykwad_abhishek@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GIRI ARYAN VILAS | Email: s25_giri_aryan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GOVINDWAR SATYAVINAYAK RUPENDRA | Email: s25_govindwar_satyavinayak@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HARMAIN KHAN SHAKEELKHAN | Email: s25_khan_harmain@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HATKAR ANIKET ANIL | Email: s25_hatkar_aniket@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HATKAR MAYURESH SANTOSH | Email: s25_hatkar_mayuresh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: HUZAIRA NIREEN  ABDULAZIZ | Email: s25_huzaira_nireen@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: IBATTE ANKITA RAVI | Email: s25_ibatte_ankita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV ADITYA SORAJI | Email: s25_jadhav_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV ANUSHKA ASHOKRAO | Email: s25_jadhav_anushka@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV PRIYA BHAGWAN | Email: s25_jadhav_priya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV SAINATH SHIVAJI | Email: s25_jadhav_sainath@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV VASUNDHARA PRAKASH | Email: s25_jadhav_vasundhara@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JAID AMRUTA GANESH | Email: s25_jaid_amruta@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JAISWAL HARIOM SANTOSHKUMAR | Email: s25_jaiswal_hariom@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JANGID BRIJMOHAN SAVKAR | Email: s25_jangid_brijmohan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JAWALE SHRUSHTI CHAKRADHAR | Email: s25_jawale_shrushti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JAWARKAR DURVA VIKAS | Email: s25_jawarkar_durva@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JOSHI SWARA VIDYADHAR | Email: s25_joshi_swara@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JUKALE SHIVAM SHANKAR | Email: s25_jukale_shivam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KACHWE SANJANA SANTOSH | Email: s25_kachwe_sanjana@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM GAJANAN SHIVANAND | Email: s25_kadam_gajanan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM NANDINI SURESH | Email: s25_kadam_nandini@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM SHANTANU SUNIL | Email: s25_kadam_shantanu@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM SWAPNALI SUNIL | Email: s25_kadam_swapnali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM VISHWAJIT SHRIDHAR | Email: s25_kadam_vishwajit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KANOLE SIDDHESHWARI BALASAHEB | Email: s25_kanole_siddheshwari@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAPKAR SAINATH BALAJI | Email: s25_kapkar_sainath@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KARHALE SHRADDHA SANDEEP | Email: s25_karhale_shraddha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KATKAM AJAY GANESH | Email: s25_katkam_ajay@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAWALE SANJANA GOVIND | Email: s25_kawale_sanjana@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAWLE  JANVI  SANTOSH | Email: s25_kawle_janvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KHANDARE PRASHIK DAMODAR | Email: s25_khandare_prashik@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KHANDRE SHRUTIKA PRAKASH | Email: s25_khandre_shrutika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KHODE  GAYATRI  DILIP | Email: s25_khode_gayatri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KITTE DIKSHA SANJAY | Email: s25_kitte_diksha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KONKE VAIBHAV DNYANOBA | Email: s25_konke_vaibhav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KORE TANVI SANTOSH | Email: s25_kore_tanvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KULKARNI MALHAR PRAVINRAO | Email: s25_kulkarni_malhar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KULKARNI  SHALVI  SHAILESH | Email: s25_kulkarni_shalvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KUNTE AMOL YOGENDRA | Email: s25_kunte_amol@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KURADE SHIVA GANGADHAR | Email: s25_kurade_shiva@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LADHE NISHA  SAMBHAJI | Email: s25_ladhe_nisha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LANDGE AKASH SHANKAR | Email: s25_landge_akash@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LANDGE  POONAM  PRASAD | Email: s25_landge_poonam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LAPSHETWAR VALLABH SANTOSH | Email: s25_lapshetwar_vallabh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LATKAR PRADYUMNA PRAVIN | Email: s25_latkar_pradyumna@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LOKMANWAR SHRAVAN SANTOSH | Email: s25_lokmanwar_shravan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MAHATME BHUMIKA KAMALKISHOR | Email: s25_mahatme_bhumika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATHAN MAHIN MASHUM | Email: s25_pathan_mahin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MAMDE VANSHIKA KAILAS | Email: s25_mamde_vanshika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MANDLIK SHRADHA ANIL | Email: s25_mandlik_shradha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MANWAR  SNEHA  RAJESH | Email: s25_manwar_sneha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MISE DHANASHRI RAVINDRA | Email: s25_mise_dhanashri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMAD JALEEL SHAREEF MUJAHID SHAREEF | Email: s25_mohammad_jaleel@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED AHTESHAM MOHAMMED SHAFEEQUE | Email: s25_mohammed_ahtesham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHHAMED RAIYYAN AHMED | Email: s25_mohhamed_riyan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MORE DEVANAND DATTRAO | Email: s25_more_devanand@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MORESHWAR ADITYA NILESH | Email: s25_moreshwar_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOTARWALE MANPREETKAUR MONUSINGH | Email: s25_motarwale_manpreetkaur@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MUDHOLKAR PRAGATI RAJU | Email: s25_mudholkar_pragati@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MUKHEDE SHRIPAD SUBHASH | Email: s25_mukhede_shripad@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MUPADE KARTIKA KERBA | Email: s25_mupade_kartika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MURTHY SHALINI SHEKHAR | Email: s25_murthy_shalini@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MUTTEPWAR ADITYA PRAMOD | Email: s25_muttepawar_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NARLAWAR ANURAG PRALHAD | Email: s25_narlawar_anurag@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NARWADE GAYATRI HANMANT | Email: s25_narwade_gayatri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NILEKAR GAYATRI RAVINDRA | Email: s25_nilekar_gayatri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NIRNE SHIVAM PANDURANG | Email: s25_nirne_shivam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PADIGE SHREYA SURYAKANT | Email: s25_padige_shreya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PADMAWAR  SHIVANI  BALAJI | Email: s25_padmawar_shivani@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PANDE TANUSHREE DURGADAS | Email: s25_pande_tanushree@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PARGHANE SHRUTI  VINOD | Email: s25_parghane_shruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATHAN ARBAZ KHAN  WAJEEDKHAN | Email: s25_pathan_arbaz@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATHAN MARIYA KHAN AMJAD KHAN | Email: s25_pathan_mariya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATIL ARYAN GANGADHAR | Email: s25_patil_aryan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATIL BALAJI SATISH | Email: s25_patil_balaji@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATIL NAKSHTRA VISHWANATH | Email: s25_patil_nakshtra@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATIL RIDHIMA DNYANESHWAR | Email: s25_patil_riddhima@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATIL SHREYA DEELIP | Email: s25_patil_shreya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATRE SHRAWANI SHARAD | Email: s25_patre_shrawani@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWALE PRATIBHA HANMANT | Email: s25_pawale_pratibha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWALE SHANTANU PANJABRAO | Email: s25_pawale_shantanu@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWAR KRISHNA WAMAN | Email: s25_pawar_krishna@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PAWAR SONALI  VASANTRAO | Email: s25_pawar_sonali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PHAD VITTHAL SHRIKANT | Email: s25_phad_vitthal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PINPRATIWAR SAMAKSH SUDHAKAR | Email: s25_pinpratiwar_samaksh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PRACHAND NIKITA MILIND | Email: s25_prachand_nikita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RABBEWAR KRUPA DIGAMBARRAO | Email: s25_rabbewar_krupa@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAIKWAD SUBHASHRI GANGADHAR | Email: s25_raikwad_subhashri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAJAM VANSHIKA RAMESH | Email: s25_rajam_vanshika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAJWADE SWARANG RAJESH | Email: s25_rajwade_swarang@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RATHOD AKANSHA MOTIRAJ | Email: s25_rathod_akansha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RATHOD NACHIKET SURESH | Email: s25_rathod_nachiket@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KHAN REHAN AHMED KHAN  RIYAZ AHEMAD | Email: s25_khan_rehan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RUDRAWAR TANVI SHIVKUMAR | Email: s25_rudrawar_tanvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SABLE TANVI DEEPAK | Email: s25_sable_tanvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SADAVARTE KETKI RAJESH | Email: s25_sadavarte_ketki@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SADHU DIKSHA NAGNATH | Email: s25_sadhu_diksha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SAKHARE ADITYA ANANDRAO | Email: s25_sakhare_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SAKHARE RITU NITESH | Email: s25_sakhare_ritu@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SAPRE AMRUTA VASANT | Email: s25_sapre_amruta@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SARJE SAKSHI DIGAMBAR | Email: s25_sarje_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SAVANDKAR SHIVRAJ BHAGIRATH | Email: s25_savandkar_shivraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SAWANT ROHIT BHIMRAO | Email: s25_sawant_rohit@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SELUKAR ANUSHKA ANIL | Email: s25_selukar_anushka@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH ABBU ZAID SHAIKH RASOOL | Email: s25_shaikh_abbuzaid@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH  ASIM SHAIKH MUJAHED | Email: s25_shaikh_asim@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH  MUZAIF SHAIKH  MUNEER | Email: s25_shaikh_muzaif@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH  RAFEY SHAYAN SHAIKH  MUJAHED | Email: s25_shaikhrafey_shayan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH SANIYA AYUB | Email: s25_shaikh_saniya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH  SHAUKAT SHAIKH KHALED | Email: s25_shaikh_shaukat@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH SHIFANAJ KHAYUM | Email: s25_shaikh_shifanaj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH UMMEKULSUM AHEMAD | Email: s25_shaikh_ummekulsum@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHETKAR MAYUR UMAKANT | Email: s25_shetkar_mayur@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHETTY SANVI PRAKASH | Email: s25_shetty_sanvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE  ABHISHEK LAXMAN | Email: s25_shinde_abhishek@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE BHALCHANDRA DNYANESHWAR | Email: s25_shinde_bhalchandra@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE PRATIKSHA SHAMRAO | Email: s25_shinde_pratiksha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE RUTUJA KAILAS | Email: s25_shinde_rutuja_kailas@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE SARVESH BHAGWAN | Email: s25_shinde_sarvesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE SHRADDHA PANJABRAO | Email: s25_shinde_shraddha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE SWARUP VISHNUKANT | Email: s25_shinde_swarup@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE VAISHNAVI BALAJI | Email: s25_shinde_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHIRPURE PRANJALI PRAKASH | Email: s25_shirpure_pranjali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHIVANKAR NANDINI KAILAS | Email: s25_shivankar_nandini@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SIRSE SHIVANI BHAUSAHAB | Email: s25_sirse_shivani@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SUROSHE ASMITA BALAJI | Email: s25_suroshe_asmita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TALE SANSKRUTI SANDIP | Email: s25_tale_sanskruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TAMASKAR MANSI VIJAY | Email: s25_tamaskar_mansi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: UBALE APURVA ANIL | Email: s25_ubale_apurva@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: UKANDE VAISHNAVI OMPRAKASH | Email: s25_ukande_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: VADALKAR ASHWINI SHIVHAR | Email: s25_vadalkar_ashwini@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: VASEKAR SHWETA SOMNATH | Email: s25_vasekar_shweta@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: VENKATPURWAR ADITI SATISH | Email: s25_venkatpurwar_aditi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: VYAWAHARE SOHAM RAM | Email: s25_vyawahare_soham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WADHAVE ROHINI  BHUJANG | Email: s25_wadhave_rohini@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WADJE RUTUJA GANESH | Email: s25_wadje_rutuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WAGH SAKSHAM DEEPAKRAO | Email: s25_wagh_saksham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WAGHMODE RAKHI PRAKASH | Email: s25_waghmode_rakhi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WANKHEDE JANHAVI GOVIND | Email: s25_wankhede_janhavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WASALWAR  SHRUTI  GANESH | Email: s25_wasalwar_shruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WATHORE TEJASVINI VIJAY | Email: s25_wathore_tejasvini@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: YADTE YASH RAM | Email: s25_yadte_yash@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: YENOLGE RUDRA MAHALING | Email: s25_yenolge_rudra@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: YERAMWAR PRACHI VENKATESH | Email: s25_yeramwar_prachi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ZAMKADE ANJALI BALAJI | Email: s25_zamkade_anjali@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ZUBIYA NAZNEEN ABDUL RAZZAQ INAMDAR | Email: s25_inamdar_zubiya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MORE SHIVRAJ NAVNATH | Email: s23_more_shivraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ADE NAVNATH MOHAN | Email: s24_ade_navnath@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAIKWAD ADITYA ASHOK | Email: s24_gaikwad_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAWANDE ABHISHEK SUNIL | Email: s24_gawande_abhishek@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH ARSHAN ASAD | Email: s24_shaikh_arshan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ABDUL MALIK MOHD AYUB | Email: s25_abdul_malik@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ADE  VISHAL  SUNIL | Email: s25_ade_vishal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ADIBA RAHIN MOHAMMED ASIF | Email: s25_adiba_rahin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AKHBARWALE GURLEEN KAUR MANDEEPSINGH | Email: s25_akhbarwale_gurleenkaur@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ALEGAONKAR RUCHA PRAMOD | Email: s25_alegaonkar_rucha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BACCHEWAR SANJANA SANTOSH | Email: s25_bacchewar_sanjana@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BADDEWAD ANKITA MADHAV | Email: s25_baddewad_ankita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BANDEWAR SHUBHAM SADANAND | Email: s25_bandewar_shubham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BARSE AMARNATH SANJAY | Email: s25_barse_amarnath@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BUKTARE SOURABH VIJAYKUMAR | Email: s25_buktare_sourabh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAVHAN SAKSHI GAUTAM | Email: s25_chavhan_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DAMKONDWAR SAMIKSHA GAJENDRA | Email: s25_damkondwar_samiksha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH RIYA GANGADHAR | Email: s25_deshmukh_riya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHMUKH SHREYA VAIJANATHRAO | Email: s25_deshmukh_shreya_vaijanathrao@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DHEPE VENKATESH GULAB | Email: s25_dhepe_venkatesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DUGANE PRADNYA BHUJANGRAO | Email: s25_dugane_pradnya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DUKARE VISHVAM VINOD | Email: s25_dukare_vishvam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GAJMAL ADITYA LAXMAN | Email: s25_gajmal_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GATLEWAR OMKAR NANDKISHOR | Email: s25_gatlewar_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GHONASE RAHUL DAYANAND | Email: s25_ghonase_rahul@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GIRI MADHURI VISHWANATH | Email: s25_giri_madhuri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GITE SNEHA RAJU | Email: s25_gite_sneha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JHA LOWKUSH PAWAN | Email: s25_jha_lawkush@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM POOJA SHIVAJI | Email: s25_kadam_pooja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAKDE ABHIJEET PUNDLIK | Email: s25_kakde_abhijeet@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KALASKAR RASHI SANTOSH | Email: s25_kalaskar_rashi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KANGULE PAVAN BALAJI | Email: s25_kangule_pavan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KANOLE SHRADDHA GOVIND | Email: s25_kanole_shraddha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAPPAWAR SHIVRAJ NIVRUTI | Email: s25_kappawar_shivraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KHILLARE OM GANGADHAR | Email: s25_khillare_om@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KOKARE PIYUSH RAVI | Email: s25_kokare_piyush@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KOKATE PRAVIN SAMBHAJI | Email: s25_kokate_pravin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KSHIRSAGAR ASMITA VISHWAMBHAR | Email: s25_kshirsagar_asmita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KUBDE SHRADHA OMPRAKASH | Email: s25_kubde_shradha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KUNIGALKAR KUMUDAVALLI PRAMOD | Email: s25_kunigalkar_kumudavalli@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MISALE SWAYAM RAJAN | Email: s25_misale_swayam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED ABDUL AZIZ NISAR AHMAD | Email: s25_mohammed_abdul@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED WAHEEDULLA MOHAMMED ZAFARULLA | Email: s25_mohammed_waheedulla@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MUNDE SHUBHAM TUKARAM | Email: s25_munde_shubham@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PADMAWAR SHABDA SURYAKANT | Email: s25_padmawar_shabda@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PANCHAL MANASVI DNYANESHWAR | Email: s25_panchal_manasvi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PENDHARKAR NARESH PANDURANG | Email: s25_pendharkar_naresh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PHULARI SAHIL NARAYAN | Email: s25_phulari_sahil@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PIMPARWAR AARYAN GAJANAN | Email: s25_pimparwar_aaryan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAJEWAR PALLAVI SANJAY | Email: s25_rajewar_pallavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RATNAPARKHI PRIYA GAJANAN | Email: s25_ratnaparkhi_priya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH  GULAM ASHMAAN  YEZDANISHARIF | Email: s25_shaikh_gulam@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHELGAONKAR SUPRIYA NAVNATH | Email: s25_shelgaonkar_supriya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE PURWA SHANKAR | Email: s25_shinde_purwa@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE RUTUJA VINOD | Email: s25_shinde_rutuja_vinod@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE SAUNDARYA SOPANRAO | Email: s25_shinde_saundarya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SUPE PRATHAMESH MAROTI | Email: s25_supe_prathamesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TADEWAD ANURADHA GANESH | Email: s25_tadewad_anuradha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TARASE  GANGOTRI GANGADHAR | Email: s25_tarase_gangotri@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TIDKE PARMESHWAR BABARAO | Email: s25_tidke_parmeshwar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WADJE KALPANA MADHUKAR | Email: s25_wadje_kalpana@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WAGHMARE DULABAI ANAND | Email: s25_waghmare_dulabai@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WANKHADE OM AVINASH | Email: s25_wankhade_om@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: YARAMWAR AARYA VASUDEV | Email: s25_yaramwar_aarya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: ZAIDAN SHABIBI FAROOQ SHABIBI | Email: s25_zaidan_shabibi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KUTE CHAITANYA BHAGWAT | Email: s24_kute_chaitanya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RATHOD GOVIND VASANT | Email: s24_rathod_govind@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: YENNAWAR GAURAV AMOL | Email: s24_yennawar_gaurav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SONTAKKE VIPUL PRADEEP | Email: s24_sontakke_vipul@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AMENA MEHREEN SADEQUE AHMED | Email: s25_ahmed_amena@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AUNDHEKAR VAISHNAVI ANANT | Email: s25_aundhekar_vaishnavi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BANDEWAR OMKAR VYANKATESH | Email: s25_bandewar_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BEMBREKAR SWEJAL RAJKUMAR | Email: s25_bembrekar_swejal@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHURE SURAJ DATTATRAYA | Email: s25_bhure_suraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BHURE TUSHAR AVINASH | Email: s25_bhure_tushar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAUS  TAHA  KHALED | Email: s25_bodke_sandhya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: BODKE SANDHYA SHANKARRAO | Email: s25_chaus_taha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHAVAN VIVEK VIKAS | Email: s25_chavan_vivek@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: CHOWHAN SANSKRUTI LAXMANSINGH | Email: s25_chowhan_sanskruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DAIWADNYA SARTHAK CHANDRAKANT | Email: s25_sarthak_chandrakant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DANDGE AARYAN MAHARUDRA | Email: s25_dandge_aaryan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DASARWAD SHRADDHA VITTHALRAO | Email: s25_dasarwad_shraddha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DESHPANDE SANIKA HARISH | Email: s25_deshpande_sanika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DIPAKE SHREYA SANJAY | Email: s25_dipake_shreya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: EKAMBE RUSHIKESH PRAKASH | Email: s25_ekambe_rushikesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: GUNDELWAR  PRANAV  SAYALU | Email: s25_gundelwar_pranav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: INGLE SURAJ SANJAY | Email: s25_ingle_suraj@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: INGOLE TANUJA  SAKHARAM | Email: s25_ingole_tanuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADAV ADITYA LAXMAN | Email: s25_jadav_aditya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JADHAV VIPIN RAJU | Email: s25_jadhav_vipin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JITEWAR  SACHITANAND  AVINASH | Email: s25_jitewar_sachitanand@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: JOSHI ARYA SUHAS | Email: s25_joshi_arya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM  PREM SIDDHARTH | Email: s25_kadam_prem@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM SWARA VIKAS | Email: s25_kadam_swara@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KADAM VEDANT BHAGWANRAO | Email: s25_kadam_vedant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAIRAMKONDA PAVANI ASHOK | Email: s25_pavani_ashok@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KALKEKAR  SANJANA  SAHEBRAO | Email: s25_kalkekar_sanjana@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KANDALWAD SHIVANI PARMESHWAR | Email: s25_kandalwad_shivani@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KAUTKAR SAKSHI NARAYAN | Email: s25_kautkar_sakshi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KHANDRE SARIKA SHRIRAM | Email: s25_khandre_sarika@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KORE SHAGUN SURESH | Email: s25_kore_shagun@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: KSHIRSAGAR RITESH DNYANESHWAR | Email: s25_kshirsagar_ritesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LATHE SHRAVAN SANTOSHRAO | Email: s25_lathe_shravan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: LOKHANDE ABHISHEK PRAVIN | Email: s25_lokhande_abhishek@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MADANWAD NIKITA SURYAKANT | Email: s25_madanwad_nikita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MAREWAD KIRAN DEEPAK | Email: s25_marewad_kiran@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MASKE SANSKRUTI VASANT | Email: s25_maske_sanskruti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED KASHIF ABDULNAIM | Email: s25_mohammed_kashif@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MORE PRATHAMESH MUKUND | Email: s25_more_prathamesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RUTUJA GIRIDHAR MUDHALE | Email: s25_mudhale_rutuja@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NAGESHWAR PRATHMESH ANIL | Email: s25_nageshwar_prathmesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: NIRPANE KRISHNA SUBHASH | Email: s25_nirpane_krishna@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PATIL SHIVANI BABURAO | Email: s25_patil_shivani@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: PINGALWAD PAWANKUMAR SANTOSH | Email: s25_pingalwad_pawankumar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: RAUT ISHWAR MADANRAO | Email: s25_raut_ishwar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SABADE AMOL PIRAJI | Email: s25_sabade_amol@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SARKATE DIVYA FULAJI | Email: s25_sarkate_divya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SARODE VAIBHAV VITHAL | Email: s25_sarode_vaibhav@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHAIKH MOHAMMAD TAHA ABDUL SHOUKAT | Email: s25_shaikh_mdtaha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHINDE VEDANT SHIVAJI | Email: s25_shinde_vedant@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SONKAMBLE NISHA ANIL | Email: s25_sonkamble_nisha@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SONSALE NIKITA DNYANOBA | Email: s25_sonsale_nikita@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SONTAKKE SHITAL TUKARAM | Email: s25_sontakke_shital@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SUKE BHAKTI PANDIT | Email: s25_suke_bhakti@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SURYAWANSHI SANKET VINAYAK | Email: s25_suryawanshi_sanket@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SURYAWANSHI YASHSHREE NAMDEV | Email: s25_suryawanshi_yashshree@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SUTRAVE PRACHI AVINASH | Email: s25_sutrave_prachi@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TARU RIYA RAMDAS | Email: s25_taru_riya@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: THAKUR SALONI JAGJITSINGH | Email: s25_thakur_saloni@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TIMAPURE OMKAR BALAJI | Email: s25_timapure_omkar@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: TOGALWAR PRAVIN BABU | Email: s25_togalwar_pravin@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: VARGE SIDDHESH CHANDRASHEKHAR | Email: s25_varge_siddhesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WADHAI NISHAD PRAFUL | Email: s25_wadhai_nishad@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: DUDHATE VINAYAK MANIKRAO | Email: s24_dudhate_vinayak@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: MOHAMMED ARSALAN MD IFTEQAR ALI | Email: s24_mohammed_arsalan@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: SHIRSE UMESH VANKAT | Email: s24_shirse_umesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: AMRUTWAR SAINATH HANMANT | Email: s24_amrutwar_sainath@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------
+Name: WAWLE RUSHIKESH BABURAO | Email: s24_wawle_rushikesh@mgmcen.ac.in
+  Student Coll: fee_status=Pending, fees_paid=False, fees_paid_amount=None, fees_amount=None, category=None
+  User Coll   : category=None
+  Submissions : None
+--------------------------------------------------

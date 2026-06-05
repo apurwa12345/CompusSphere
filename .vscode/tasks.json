@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Flask App",
+			"type": "shell",
+			"command": "& c:\\Users\\Asus\\OneDrive\\Pictures\\Desktop\\Final1\\Final1\\.venv\\Scripts\\Activate.ps1 ; python backend\\run.py",
+			"args": [],
+			"isBackground": true,
+			"group": "build"
+		}
+	]
+}

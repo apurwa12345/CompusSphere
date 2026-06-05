@@ -1,0 +1,15 @@
+=== ALL FEE SUBMISSIONS ===
+ID: 69d8ae1f76c8333403946bc0 | Student ID: 69ca258a16a733b7fdccbfa3 | Name: BASRE MAHESH OMPRAKASH | Email: s25_basre_mahesh@mgmcen.ac.in | Status: Paid | Amount: 60000 | Category: OBC
+ID: 69ef12ec856ce1bfbfb1194f | Student ID: 69ca258a16a733b7fdccbf9f | Name: ADKINE VYANKATESH KAILAS | Email: s25_adkine_vyankatesh@mgmcen.ac.in | Status: Pending | Amount: 60000 | Category: OBC
+ID: 69f057973e8a84de8f4fb13e | Student ID: 69ca258a16a733b7fdccbfa0 | Name: AGRAWAL RIDDHI MANOJKUMAR | Email: s25_agrawal_riddhi@mgmcen.ac.in | Status: Pending | Amount: 90000 | Category: EWS
+ID: 69f06051845b98a8446aa2b3 | Student ID: 69ca258a16a733b7fdccbf9f | Name: ADKINE VYANKATESH KAILAS | Email: s25_adkine_vyankatesh@mgmcen.ac.in | Status: Pending | Amount: 100000 | Category: General
+ID: 69f0659c853e5296c02685e7 | Student ID: 69ca258a16a733b7fdccbfab | Name: CHANDRE PUJA UMAKANT | Email: s25_chandre_puja@mgmcen.ac.in | Status: Paid | Amount: 60000 | Category: OBC
+ID: 69f1c106b8246041a1441ea8 | Student ID: 69ca258a16a733b7fdccbfae | Name: CHAVHAN SWATI SUNIL | Email: s25_chavhan_swati@mgmcen.ac.in | Status: Paid | Amount: 90000 | Category: EWS
+ID: 69f8427a6e55b2254a3768f6 | Student ID: 69ca258a16a733b7fdccbfa3 | Name: BASRE MAHESH OMPRAKASH | Email: s25_basre_mahesh@mgmcen.ac.in | Status: Pending | Amount: 60000 | Category: OBC
+ID: 69f8433b6e55b2254a3768f7 | Student ID: 69ca258a16a733b7fdccbfa3 | Name: BASRE MAHESH OMPRAKASH | Email: s25_basre_mahesh@mgmcen.ac.in | Status: Pending | Amount: 60000 | Category: OBC
+ID: 6a0acbee410919f04c4ba1fc | Student ID: 69ca258a16a733b7fdccc0fe | Name: CHITKESHIWAR SHWETA  SANTOSH | Email: s25_chitkeshiwar_shweta@mgmcen.ac.in | Status: Pending | Amount: 10000 | Category: SC
+
+=== STUDENTS NOT PENDING ===
+ID: 69ca258a16a733b7fdccbfa3 | Name: BASRE MAHESH OMPRAKASH | Email: s25_basre_mahesh@mgmcen.ac.in | fee_status: Paid | fees_paid: True | fees_paid_amount: 60000.0 | fees_amount: 60000 | category: OBC
+ID: 69ca258a16a733b7fdccbfab | Name: CHANDRE PUJA UMAKANT | Email: s25_chandre_puja@mgmcen.ac.in | fee_status: Paid | fees_paid: True | fees_paid_amount: 60000.0 | fees_amount: 60000 | category: OBC
+ID: 69ca258a16a733b7fdccbfae | Name: CHAVHAN SWATI SUNIL | Email: s25_chavhan_swati@mgmcen.ac.in | fee_status: Paid | fees_paid: True | fees_paid_amount: 90000.0 | fees_amount: 90000 | category: EWS

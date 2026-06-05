@@ -1,0 +1,7 @@
+Columns: ['ca', 'code', 'credits', 'ese', 'l', 'mse', 'name', 'p', 'semester', 't', 'total', 'type']
+
+First 2 rows data:
+{'ca': nan, 'code': '24AF1000BS101', 'credits': 3.0, 'ese': nan, 'l': nan, 'mse': nan, 'name': 'Engineering Mathematics – I', 'p': nan, 'semester': nan, 't': nan, 'total': nan, 'type': 'BSC'}
+{'ca': nan, 'code': '24AF1CHEBS102', 'credits': 3.0, 'ese': nan, 'l': nan, 'mse': nan, 'name': 'Engineering Chemistry', 'p': nan, 'semester': nan, 't': nan, 'total': nan, 'type': 'BSC'}
+
+Non-null semesters count: 0 / 13
