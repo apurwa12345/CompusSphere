@@ -1,0 +1,54 @@
+# ===========================
+# Python
+# ===========================
+.venv/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# ===========================
+# Environment Variables
+# ===========================
+.env
+**/.env
+
+# ===========================
+# Node
+# ===========================
+node_modules/
+**/node_modules/
+
+# Build Output
+dist/
+build/
+**/dist/
+
+# ===========================
+# VS Code
+# ===========================
+.vscode/
+
+# ===========================
+# Operating System
+# ===========================
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# MongoDB local database
+backend/mongodb_data/
+
+# Generated files
+generated/
+
+# Backup files
+*.bak
+
+# Python cache
+*.py[cod]
